@@ -1,0 +1,8 @@
+{
+  "name": "911-calls-mongodb",
+  "version": "1.0.0",
+  "dependencies": {
+    "csv-parser": "1.11.0",
+    "elasticsearch": "14.0.0"
+  }
+}
